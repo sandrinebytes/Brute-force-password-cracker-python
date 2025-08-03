@@ -62,3 +62,4 @@ if ps == password:
     print("Your Password is", ps)
     break
 ```
+![Step 5 - Generated Password Output](step5_password_output.png)
