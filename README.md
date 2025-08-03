@@ -63,3 +63,18 @@ if ps == password:
     break
 ```
 ![Step 5 - Generated Password Output](step5_password_output.png)
+
+### 6️⃣ Running the Cracker  
+When you run the program, you'll see it trying many password combinations until it finds the correct one.  
+🖼️ Image: cracking_passwords  
+🖼️ Image: ash
+
+### 7️⃣ Testing with Special Characters  
+We try a more complex password (e.g., @#1) to validate that our cracker can handle special characters as well.  
+🖼️ Image: special_chars  
+🖼️ Image: special_chars_cracked
+
+### 🐞 Challenges & Fixes  
+- Ensured `random.choices()` generated the correct password length  
+- Properly joined the character list into a string  
+- Added a break condition to stop once the password is cracked  
