@@ -71,8 +71,8 @@ When you run the program, you'll see it trying many password combinations until 
 
 ### 7️⃣ Testing with Special Characters  
 We try a more complex password (e.g., @#1) to validate that our cracker can handle special characters as well.  
-🖼️ Image: special_chars  
-🖼️ Image: special_chars_cracked
+![Special Characters](special_chars.png)
+![Special Characters Cracked](special_chars_cracked.png)
 
 ### 🐞 Challenges & Fixes  
 - Ensured `random.choices()` generated the correct password length  
