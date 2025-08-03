@@ -67,7 +67,7 @@ if ps == password:
 ### 6️⃣ Running the Cracker  
 When you run the program, you'll see it trying many password combinations until it finds the correct one.  
 ![Cracking Passwords](cracking_passwords.png)
-🖼️ Image: ash
+![Cracked Password - ash](cracked_password_ash.png)
 
 ### 7️⃣ Testing with Special Characters  
 We try a more complex password (e.g., @#1) to validate that our cracker can handle special characters as well.  
