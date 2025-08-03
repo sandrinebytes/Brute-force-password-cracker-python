@@ -45,3 +45,20 @@ After printing, you will see all uppercase and lowercase letters, digits, and sp
 ### 🖼️ Visual Reference: Alphabet Characters  
 ![Alphabet Characters](alphabet_characters.png)
 
+### 4️⃣ Generate Random Passwords
+
+```python
+import random
+
+var = random.choices(char, k=len(password))
+print("Generated guess:", var)
+```
+
+### 5️⃣ Join Characters and Compare
+
+```python
+ps = "".join(var)
+if ps == password:
+    print("Your Password is", ps)
+    break
+```
