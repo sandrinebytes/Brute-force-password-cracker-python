@@ -66,7 +66,7 @@ if ps == password:
 
 ### 6️⃣ Running the Cracker  
 When you run the program, you'll see it trying many password combinations until it finds the correct one.  
-🖼️ Image: cracking_passwords  
+![Cracking Passwords](cracking_passwords.png)
 🖼️ Image: ash
 
 ### 7️⃣ Testing with Special Characters  
