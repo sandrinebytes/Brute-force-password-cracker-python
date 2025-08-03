@@ -28,3 +28,13 @@ We start by letting the user enter the target password.
 
 ```python
 password = input("Enter The Password: ")
+```
+### 2️⃣ Generate List of Characters  
+Using the `string` library to pull all printable characters.
+
+```python
+import string
+char = list(string.printable)
+print(char)
+```
+![char_list_string_printable](char_list_string_printable.png)
