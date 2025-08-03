@@ -39,4 +39,9 @@ print(char)
 ```
 ![char_list_string_printable](char_list_string_printable.png)
 
+### 3️⃣ Confirm Character Set  
+After printing, you will see all uppercase and lowercase letters, digits, and special characters. This list will be used to generate password guesses.
+
+### 🖼️ Visual Reference: Alphabet Characters  
+![Alphabet Characters](alphabet_characters.png)
 
