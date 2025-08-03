@@ -37,4 +37,5 @@ import string
 char = list(string.printable)
 print(char)
 ```
-![char_list_string_printable](char_list_string_printable.png)
+![char_list_string_printable](char_list_string_printable)
+
